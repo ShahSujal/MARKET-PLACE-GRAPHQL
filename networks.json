@@ -1,7 +1,7 @@
 {
   "mumbai": {
     "NFTMarket": {
-      "address": "0x712226E4A730A98e2443dC0B2908827D117a9d09",
+      "address": "MARKET_ADDRESS",
       "startBlock": 34126615
     }
   }
